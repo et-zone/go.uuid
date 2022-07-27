@@ -32,7 +32,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/satori/go.uuid"
+	"github.com/et-zone/go.uuid"
 )
 
 func main() {
